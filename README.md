@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Lehlohonolo Mofula
-#### I am Software Engineer | Microsoft Certified Trainer | UX Designer 
+#### I am a Software Engineer | Microsoft Certified Trainer | UX Designer 
 ![I am software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Skills: Angular / DevOps / Azure / ASP.NET / Android App Development

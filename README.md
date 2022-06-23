@@ -1,18 +1,14 @@
 ### Hi there 👋, I'm Lehlohonolo Mofula
-#### I am software engineer | UX Designer
+#### I am Software Engineer | Microsoft Certified Trainer | UX Designer 
 ![I am software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Angular / DevOps / Azure / ASP.NET / Android App Development
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Android Development 
 - 👯 I’m looking to collaborate on Open Sour 
 - 💬 Ask me about MEAN, ASP.NET  and Android 
 - 📫 How to reach me: Leomofula@gmail.com 
-- 😄 Pronouns: Him / He 
-
+- 😄 Pronouns: Just use my name!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LehlohonoloMofula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/LehlonoloMofula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Lehlohonoloharrison)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Lehlohonolo.web.app)  
 

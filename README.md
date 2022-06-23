@@ -1,7 +1,9 @@
 ![I am software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 # Lehlohonolo Mofula
 ### I am a Software Engineer | Microsoft Certified Trainer | UX Designer 
-Skills: Angular / DevOps / Azure / ASP.NET / Android App Development
+
+#### Skills: 
+Angular / DevOps / Azure / ASP.NET / Android App Development
 
 - 🌱 I’m currently learning Android Development 
 - 👯 I’m looking to collaborate on Open Sour 

@@ -1,4 +1,4 @@
-![I am software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am software engineer]
 # Lehlohonolo Mofula
 ### I am a Software Engineer | Microsoft Certified Trainer | UX Designer 
 

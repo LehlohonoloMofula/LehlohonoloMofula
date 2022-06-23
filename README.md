@@ -1,4 +1,3 @@
-![I am software engineer]
 # Lehlohonolo Mofula
 ### I am a Software Engineer | Microsoft Certified Trainer | UX Designer 
 

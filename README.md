@@ -5,8 +5,8 @@
 Angular / DevOps / Azure / ASP.NET / Android App Development
 
 - 🌱 I’m currently learning Android Development 
-- 👯 I’m looking to collaborate on Open Sour 
-- 💬 Ask me about MEAN, ASP.NET  and Android 
+- 👯 I’m looking to collaborate on Open Source Projects 
+- 💬 Ask me about MEAN, ASP.NET  and Android Development
 - 📫 How to reach me: Leomofula@gmail.com 
 - 😄 Pronouns: Just use my name!
 

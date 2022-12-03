@@ -1,8 +1,8 @@
 # Lehlohonolo Mofula
-### I am a Software Engineer | Microsoft Certified Trainer | UX Designer 
+### I am a Software Engineer | DevOps Engineer | Project Manager | Microsoft Certified Trainer
 
 #### Skills: 
-Angular / DevOps / Azure / ASP.NET / Android App Development
+Angular / DevOps / Azure / ASP.NET / Android App Development / Project Management
 
 - 🌱 I’m currently learning Power Apps, .Net MAUI and Project management 
 - 👯 I’m looking to collaborate on Open Source Projects and any Non-profit applications

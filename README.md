@@ -1,5 +1,18 @@
 # Lehlohonolo Mofula
-### I am a Software Engineer | DevOps Engineer | Project Manager | Microsoft Certified Trainer
+### I am a Software Engineer | Microsoft Certified Trainer | Microsoft Certidfied Educator
+
+<h2> Certifications </h2>
+  <h5>
+  Fundamentals
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+  <h5>
 
 #### Skills: 
 Angular / DevOps / Azure / ASP.NET / Android App Development / Project Management

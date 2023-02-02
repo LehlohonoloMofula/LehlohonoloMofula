@@ -1,5 +1,5 @@
 # Lehlohonolo Mofula
-### I am a Software Engineer | Microsoft Certified Trainer | Microsoft Certidfied Educator
+### I am a Software Engineer | Microsoft Certified Trainer
 
 <!-- <h2> Certifications </h2>
   <h5>

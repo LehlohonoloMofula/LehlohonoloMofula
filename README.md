@@ -14,9 +14,9 @@
   <h5> -->
 
 #### Skills: 
-Angular |  DevOps |  Azure |  GCP | ASP.NET |  Android App Development 
+Azure |  GCP |  DevOps  | Data Engineering  
 
-- 🌱 I’m currently learning Power Apps, .Net MAUI and Project management 
+- 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on Open Source Projects and any Non-profit applications
 - 💬 Ask me about MEAN, ASP.NET and Android Development
 - 📫 How to reach me: Leomofula@gmail.com 

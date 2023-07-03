@@ -14,7 +14,7 @@
   <h5> -->
 
 #### Skills: 
-Azure |  GCP |  DevOps  | Data Engineering  
+Azure |  GCP |  DevSecOps  | Data Engineering  
 
 - 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on Open Source Projects and any Non-profit applications

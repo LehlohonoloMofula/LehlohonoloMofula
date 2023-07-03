@@ -14,7 +14,7 @@
   <h5> -->
 
 #### Skills: 
-Angular / DevOps / Azure / ASP.NET / Android App Development / Project Management
+Angular |  DevOps |  Azure |  GCP | ASP.NET |  Android App Development 
 
 - 🌱 I’m currently learning Power Apps, .Net MAUI and Project management 
 - 👯 I’m looking to collaborate on Open Source Projects and any Non-profit applications

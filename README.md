@@ -14,11 +14,11 @@
   <h5> -->
 
 #### Skills: 
-Azure |  GCP |  DevSecOps  | Data Engineering  
+Data Science|  Data Analysis |  Data Engineering  | Data Governance  
 
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source Projects and any Non-profit applications
-- 💬 Ask me about MEAN, ASP.NET and Android Development
+- 💬 Ask me anything about Data Science
 - 📫 How to reach me: Leomofula@gmail.com 
 - 😄 Pronouns: Just use my name!
 

@@ -15,3 +15,5 @@ Data Science |  Data Analysis |  Data Engineering  | Data Governance
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LehlohonoloMofula&show_icons=true)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LehlohonoloMofula)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LehlohonoloMofula)  
+![LehlohonoloMofula's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LehlohonoloMofula&bg_color=ffffff&color=333333&line=000000&point=1abc9c&area=true&hide_border=true)
+

@@ -10,6 +10,7 @@ Data Science |  Data Analysis |  Data Engineering  | Data Governance
 - 😄 Pronouns: Just use my name!
 
 <h3 align="center">Languages and Tools:</h3>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LehlohonoloMofula)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LehlohonoloMofula&show_icons=true)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohonoloMofula)]

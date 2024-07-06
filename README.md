@@ -17,8 +17,7 @@ Data Science|  Data Analysis |  Data Engineering  | Data Governance
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohonoloMofula)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LehlohonoloMofula&show_icons=true)  
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=LehlohonoloMofula&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LehlohonoloMofula)  
 

@@ -1,6 +1,6 @@
 <h1 align="center">Lehlohonolo Mofula</h1
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2> </br>
 Data Science|  Data Analysis |  Data Engineering  | Data Governance  
 
 - 🌱 I’m currently learning Data Science

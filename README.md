@@ -1,19 +1,6 @@
-# Lehlohonolo Mofula
+<h1 align="center">>Lehlohonolo Mofula</h1
 
-<!-- <h2> Certifications </h2>
-  <h5>
-  Fundamentals
-      <ul>
-        <li>Azure AZ-900</li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
-  <h5> -->
-
-#### Skills: 
+<h3 align="center">Languages and Tools:</h3>
 Data Science|  Data Analysis |  Data Engineering  | Data Governance  
 
 - 🌱 I’m currently learning Data Science

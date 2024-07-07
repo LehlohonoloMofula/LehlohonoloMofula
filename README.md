@@ -10,7 +10,11 @@ Data Science |  Data Analysis |  Data Engineering  | Data Governance
 - 😄 Pronouns: Just use my name!
 
 <h3 align="center">Languages and Tools:</h3>
+<P>Lehlohonolo Mofula is a dedicated Statistics major with a strong passion for learning new skills and discovering new information. He holds degrees in both Computer Sciences and Statistics. As a Microsoft Learn Student Ambassador, Lehlohonolo teaches Microsoft technology through the program, sharing his expertise and helping others grow in their technological knowledge.</P>
 
+<p>Lehlohonolo's enthusiasm for Data Sciences is evident in his active participation in various hackathons, academic conferences, and professional gatherings. His commitment to continuous learning is further demonstrated by his multiple certifications and his pursuit of a master's degree in Statistics and Machine Learning (StatML).
+
+Originating from South Africa, Lehlohonolo is deeply engaged in the tech community, always seeking opportunities to expand his knowledge and skills. His blend of academic prowess, practical experience, and dedication to teaching makes him a valuable contributor to the field of data science and technology.</P>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LehlohonoloMofula)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LehlohonoloMofula&show_icons=true)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohonoloMofula)]

@@ -10,7 +10,7 @@ Data Science |  Data Analysis |  Data Engineering  | Data Governance
 - 😄 Pronouns: Just use my name!
 
 <h3 align="center">Languages and Tools:</h3>
-<P>Lehlohonolo Mofula is a dedicated Informatics major with a strong passion for learning new skills and discovering new information. As a Microsoft Learn Student Ambassador, Lehlohonolo teaches Microsoft technology through the program, sharing his expertise and helping others grow in their technological knowledge.</P>
+<P>Lehlohonolo Mofula is a dedicated Informatics major with a strong passion for learning new skills and discovering  new information. As a Microsoft Learn Student Ambassador, Lehlohonolo teaches Microsoft technology through the program, sharing his expertise and helping others grow in their technological knowledge.</P>
 
 <p>Lehlohonolo's enthusiasm for Data Sciences is evident in his active participation in various hackathons, academic conferences, and professional gatherings. //<!-->His commitment to continuous learning is further demonstrated by his multiple certifications
 

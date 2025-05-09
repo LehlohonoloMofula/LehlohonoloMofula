@@ -18,6 +18,6 @@ Originating from South Africa, Lehlohonolo is deeply engaged in the tech communi
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LehlohonoloMofula)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LehlohonoloMofula&show_icons=true)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohonoloMofula)
-![(https://github-readme-stats.vercel.app/api/wakatime?username=LehlohonoloMofula)]
+[![Lehlohonolo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LehlohonoloMofula)](https://github.com/anuraghazra/github-readme-stats)
 
 

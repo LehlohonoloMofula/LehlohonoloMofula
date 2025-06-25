@@ -4,7 +4,7 @@ Data Science |  Data Analysis |  Data Engineering  | Machine Learning
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source Projects and any Non-profit applications
 - 💬 Ask me anything about Data Science
-- 📫 How to reach me: Leomofula@gmail.com 
+- 📫 How to reach me: 
 - 😄 Pronouns: Just use my name!
 <h3 align="center">Languages and Tools:</h3>
 <P>Lehlohonolo Mofula is a dedicated Informatics major with a strong passion for learning new skills and discovering  new information. As a Microsoft Learn Student Ambassador, Lehlohonolo teaches Microsoft technology through the program, sharing his expertise and helping others grow in their technological knowledge.</P>

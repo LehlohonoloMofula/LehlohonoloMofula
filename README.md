@@ -1,6 +1,6 @@
 <h1 align="center">Lehlohonolo Mofula</h1
 <h2 align="center">About:</h2> </br>
-<h3>Data Science |  Data Analysis |  Data Engineering  | Machine Learning</h3>  
+<h4>Data Science |  Data Analysis |  Data Engineering  | Machine Learning</h4>  
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source Projects and any Non-profit applications
 - 💬 Ask me anything about Data Science

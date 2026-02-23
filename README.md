@@ -20,8 +20,8 @@ Lehlohonolo's enthusiasm for Data Sciences is evident in his active participatio
 Originating from South Africa, Lehlohonolo is deeply engaged in the tech community, always seeking opportunities to expand his knowledge and skills. His blend of academic prowess, practical experience, and dedication to teaching makes him a valuable contributor to the field of data science and technology.
 </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LehlohonoloMofula)
+![GitHub streak stats](https://streak-stats.demolab.com?user=LehlohonoloMofula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LehlohonoloMofula&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LehlohonoloMofula&show_icons=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohonoloMofula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohonoloMofula&layout=compact&langs_count=8)

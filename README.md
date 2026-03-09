@@ -1,6 +1,6 @@
 <h1 align="center">Lehlohonolo Mofula</h1>
 <h2 align="center">About:</h2> <br>
-<h4>Data Science | Data Analysis | Data Engineering | Machine Learning</h4>
+
 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source Projects and any Non-profit applications
@@ -9,7 +9,7 @@
 - 😄 Pronouns: Just use my name!
 
 <h3 align="center">Languages and Tools:</h3>
-
+<h4>Data Science | Data Analysis | Data Engineering | Machine Learning</h4>
 <p>
 Lehlohonolo Mofula is a dedicated Informatics major with a strong passion for learning new skills and discovering new information. As a Microsoft Learn Student Ambassador, Lehlohonolo teaches Microsoft technology through the program, sharing his expertise and helping others grow in their technological knowledge.
 </p>

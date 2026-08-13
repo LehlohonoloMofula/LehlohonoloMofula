@@ -64,6 +64,7 @@ As a **Teaching Assistant** at NWU and an active **MLSA**, I've organised **14+ 
 |---|---|
 | 🟢 Google | Google Data Analytics |
 | 🟢 Google | Google Advanced Data Analytics |
+| 🟢 Google | Google Business Analytics |
 | 🔵 Microsoft | Azure Fundamentals (AZ-900) |
 | 🔵 Microsoft | Azure AI Fundamentals (AI-900) |
 | 🔵 Microsoft | Azure Data Fundamentals (DP-900) |

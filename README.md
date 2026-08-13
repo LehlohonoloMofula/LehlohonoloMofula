@@ -23,7 +23,7 @@ As a **Teaching Assistant** at NWU and an active **MLSA**, I've organised **14+ 
 ---
 
 ## 🚀 What I'm Up To
-- 🤝 Open to collaborating on **open source projects** and **non-profit applications**
+- 🤝 Open to collaborating on **open source projects** and **non-profit**
 - 💬 Ask me about **Data Analytics, Power BI, Azure, or anything Microsoft**
 - 📫 Reach me: [Leomofula@gmail.com](mailto:Leomofuln@gmail.com)
 - 😄 Pronouns: Just use my name!
@@ -58,7 +58,7 @@ As a **Teaching Assistant** at NWU and an active **MLSA**, I've organised **14+ 
 
 ---
 
-## 🏅 Top Certifications (23 Total)
+## 🏅 Top Certifications (11 Total)
 
 | Issuer | Certification |
 |---|---|

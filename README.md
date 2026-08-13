@@ -4,7 +4,7 @@
 
 # Lehlohonolo Mofula
 
-**Data Analyst · Microsoft Student Ambassador📍 Johannesburg, Gauteng, South Africa 🇿🇦 ·
+**Data Analyst · Microsoft Student Ambassador📍 Johannesburg, Gauteng, South Africa 🇿🇦**
 
 [![MLSA Profile](https://img.shields.io/badge/MLSA-Microsoft%20Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-za/studentambassadors/profile/7273e7bf-86f5-47b3-8b3a-08c6ea586494)
 

@@ -4,7 +4,7 @@
 
 # Lehlohonolo Mofula
 
-**Data Analyst · Microsoft Student Ambassador📍 Johannesburg, Gauteng, South Africa 🇿🇦**
+**Data Practitioner · Microsoft Student Ambassador📍 Johannesburg, Gauteng, South Africa 🇿🇦**
 
 [![MLSA Profile](https://img.shields.io/badge/MLSA-Microsoft%20Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-za/studentambassadors/profile/7273e7bf-86f5-47b3-8b3a-08c6ea586494)
 
@@ -14,9 +14,9 @@
 
 ## 👋 About Me
 
-I'm a **Certified Data Analyst and Microsoft Learn Student Ambassador (Beta)** at North-West University, specialising in **data analytics, business intelligence, and AI**. I bridge the gap between complex data and practical, actionable outcomes — backed by **23 industry certifications** from Microsoft, Google, GitHub, and DataCamp.
+I'm a **Certified Data Practitioner and Microsoft Student Ambassador (Associate)**, former Teaching assistant at North-West University, specialising in **data analytics, business intelligence, and AI**. I bridge the gap between complex data and practical, actionable outcomes — backed by **23 industry certifications** from Microsoft, Google, GitHub, and DataCamp.
 
-As a **Teaching Assistant** at NWU and an active **MLSA**, I've organised **14+ events and workshops** on Azure, Power BI, and AI across South Africa, mentored students in cloud computing, and created community content reaching audiences nationwide.
+As a **Teaching Assistant** at NWU and an active **MLSA**, I've organised **20+ a events and workshops** on Azure, Power BI, and AI across South Africa, mentored students in cloud computing, and created community content reaching audiences nationwide.
 
 
 
